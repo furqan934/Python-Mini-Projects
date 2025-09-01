@@ -1,0 +1,2 @@
+Html;-> HTML stands for the Hyper Text Marckup language, which is used in the web as a structural or skeletion  language.
+CSS stands for the Casecading style sheet, which used as a skin like  means it adds decoration the web page.

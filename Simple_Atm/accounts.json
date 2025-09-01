@@ -1,0 +1,27 @@
+{
+    "66553283": {
+        "account_no": "66553283",
+        "name": "Furqan Ali",
+        "password": "Lhan4416",
+        "balance": 0.0,
+        "history": []
+    },
+    "17580483": {
+        "account_no": "17580483",
+        "name": "Ali",
+        "password": "khan22",
+        "balance": 20.0,
+        "history": [
+            {
+                "type": "deposit",
+                "amount": 30.0,
+                "date": "2025-09-01 09:38:04"
+            },
+            {
+                "type": "withdraw",
+                "amount": 10.0,
+                "date": "2025-09-01 09:38:11"
+            }
+        ]
+    }
+}

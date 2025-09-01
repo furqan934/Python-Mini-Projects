@@ -1,0 +1,42 @@
+{
+  "12345": {
+    "pin": "1111",
+    "balance": 4950.0,
+    "history": [
+      {
+        "time": "2025-08-31T21:27:32",
+        "type": "DEPOSIT",
+        "amount": 10.0,
+        "balance": 5010.0,
+        "note": "Cash deposit"
+      },
+      {
+        "time": "2025-08-31T21:27:43",
+        "type": "WITHDRAW",
+        "amount": 10.0,
+        "balance": 5000.0,
+        "note": "Cash withdraw"
+      },
+      {
+        "time": "2025-08-31T21:28:38",
+        "type": "TRANSFER_OUT",
+        "amount": 50.0,
+        "balance": 4950.0,
+        "note": "To 67890"
+      }
+    ]
+  },
+  "67890": {
+    "pin": "2222",
+    "balance": 3050.0,
+    "history": [
+      {
+        "time": "2025-08-31T21:28:38",
+        "type": "TRANSFER_IN",
+        "amount": 50.0,
+        "balance": 3050.0,
+        "note": "From 12345"
+      }
+    ]
+  }
+}

@@ -30,7 +30,7 @@ Run the Python script:
 python main.py
 ```
 ## 📧 Author
-Beoloped by:Muhammad Furqan
+Beoloped by:Muhammad Furqan <br>
 📩 Email: muhammadfurqan.dev@gmail.com
 
 ## 📜 License
